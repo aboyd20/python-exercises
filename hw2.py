@@ -1,6 +1,3 @@
-# hw2.py due 1/18/2017
-# Alicia Boyd
-
 # Problem 1
 
 import math
