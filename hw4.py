@@ -1,6 +1,3 @@
-# hw4.py due 2/1/2017
-# Alicia Boyd
-
 #problem 1
 
 def movie_tix(age, num_ppl):
